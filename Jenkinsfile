@@ -21,3 +21,5 @@ pipeline {
                             bat 'mvn package deploy -DmuleDeploy -DmuleVersion=4.8.0 -Dusername=hemaneww -Dpassword=Hemala03 -DworkerType=Micro -Dworkers=1'
                          }
                     }
+         }
+}
