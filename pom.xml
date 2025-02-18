@@ -36,6 +36,7 @@
 						<username>hemaneww</username>
 						<password>Hemala03</password>
 						<applicationName>test-214421</applicationName>
+						<businessGroup>Training</businessGroup>
 						<environment>DEV</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
