@@ -37,6 +37,7 @@
 						<password>Hemala03</password>
 						<applicationName>test-214421</applicationName>
 						<environment>DEV</environment>
+						<region>us-east-1</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 					</cloudHubDeployment>
